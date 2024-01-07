@@ -1,0 +1,16 @@
+1702758013768	geckodriver	INFO	Listening on 127.0.0.1:53772
+1702758016849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53773" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\omistaja\\AppData\\Local\\Temp\\rust_mozprofileMQGUoZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702758017400	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702758017578	Marionette	INFO	Listening on port 53781
+WebDriver BiDi listening on ws://127.0.0.1:53773
+Read port: 53781
+1702758017869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53773/devtools/browser/f80b7944-10dd-4614-a5c9-790f6f995efb
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/Magento_Translation/js/mage-translation-dictionary.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+1702758047489	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.

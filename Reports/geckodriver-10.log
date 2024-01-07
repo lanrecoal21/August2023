@@ -1,0 +1,28 @@
+1702758240074	geckodriver	INFO	Listening on 127.0.0.1:54040
+1702758243147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\omistaja\\AppData\\Local\\Temp\\rust_mozprofileIty8OQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702758243591	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702758243759	Marionette	INFO	Listening on port 54053
+WebDriver BiDi listening on ws://127.0.0.1:54041
+Read port: 54053
+1702758244013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54041/devtools/browser/2b25fa37-f44f-4653-a652-751a76f779a2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: Magento_Ui/js/core/renderer/types
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: Magento_Ui/js/core/renderer/layout
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: Magento_Customer/js/customer-data
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: Magento_Persistent/js/view/customer-data-mixin
+http://requirejs.org/docs/errors.html#scripterror
+1702758274575	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:69164
+
+1702758300827	Marionette	INFO	Stopped listening on port 54053
+Dynamically enable window occlusion 1

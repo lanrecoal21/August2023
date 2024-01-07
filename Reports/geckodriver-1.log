@@ -1,0 +1,126 @@
+1702156062400	geckodriver	INFO	Listening on 127.0.0.1:54323
+1702156065490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54324" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\omistaja\\AppData\\Local\\Temp\\rust_mozprofileiy2FK4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702156065869	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702156065991	Marionette	INFO	Listening on port 54335
+WebDriver BiDi listening on ws://127.0.0.1:54324
+Read port: 54335
+1702156066204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54324/devtools/browser/c4ff9d00-d2a6-4800-a7aa-37255f85be36
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914, line 69: Script terminated by timeout at:
+dc@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:69:740
+I.prototype.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:70:382
+n.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:178
+I.prototype.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:70:392
+n.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:178
+I.prototype.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:70:392
+n.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:178
+I.prototype.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:70:392
+Fc.prototype.Ia@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:83:196
+I.prototype.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:70:264
+n.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:178
+I.prototype.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:70:392
+n.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:178
+I.prototype.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:70:392
+n.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:178
+I.prototype.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:70:392
+n.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:178
+I.prototype.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:70:392
+n.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:178
+I.prototype.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:70:392
+n.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:178
+I.prototype.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:70:392
+n.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:178
+I.prototype.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:70:392
+n.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:178
+n.Ia@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:76:182
+I.prototype.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:70:264
+n.unsubscribe@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:178
+n.complete@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:387
+n.D@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:328
+n.complete@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:99
+Te.prototype.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:110:705
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+n.ua@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:98:367
+Wc.prototype.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:87:1343
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+Lc.prototype.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:85:601
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+Lc.prototype.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:85:601
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+Ih/c/</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:150:320
+Va@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:44:339
+Sa.prototype.flush@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:44:127
+Ua@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:43:466
+Ih/c/</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:150:292
+n.Id@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:428
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:74:440
+n.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:224
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+Sg/</</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:136:458
+Qa.prototype.Wb/<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:43:298
+Sg/</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:136:467
+n.Id@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:428
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:74:440
+n.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:224
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+Sg/</</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:136:458
+Qa.prototype.Wb/<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:43:298
+Sg/</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:136:467
+n.Id@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:428
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:74:440
+n.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:224
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+nd/</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:93:671
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 2446 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914, line 72: Script terminated by timeout at:
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:842
+Te.prototype.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:110:672
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+n.ua@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:98:367
+Wc.prototype.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:87:1343
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+Lc.prototype.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:85:601
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+Lc.prototype.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:85:601
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+Ih/c/</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:150:320
+Va@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:44:339
+Sa.prototype.flush@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:44:127
+Ua@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:43:466
+Ih/c/</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:150:292
+n.Id@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:428
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:74:440
+n.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:224
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+Sg/</</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:136:458
+Qa.prototype.Wb/<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:43:298
+Sg/</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:136:467
+n.Id@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:428
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:74:440
+n.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:224
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+Sg/</</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:136:458
+Qa.prototype.Wb/<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:43:298
+Sg/</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:136:467
+n.Id@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:428
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:74:440
+n.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:73:224
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:72:859
+nd/</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:93:671
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 2212 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1702156097174	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE

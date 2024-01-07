@@ -1,0 +1,44 @@
+1702836881986	geckodriver	INFO	Listening on 127.0.0.1:51311
+1702836885104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51312" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\omistaja\\AppData\\Local\\Temp\\rust_mozprofilevheaGC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702836885846	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702836885962	Marionette	INFO	Listening on port 51321
+WebDriver BiDi listening on ws://127.0.0.1:51312
+Read port: 51321
+1702836886260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51312/devtools/browser/66a79f7d-89f6-49d4-bff8-6890494adcd6
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/Magento_Theme/js/view/messages.js, line 2: TypeError: $.mage.cookies is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: jquery-ui-modules/button
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: jquery-ui-modules/draggable
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: jquery-ui-modules/position
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: jquery-ui-modules/resizable
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/template/observable_source
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/template/renderer
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: Magento_Ui/js/lib/logger/console-logger
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/i18n
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/resizable
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://magento.softwaretestingboard.com/pub/static/version1695896754/frontend/Magento/luma/en_US/requirejs/require.js, line 16: Error: Script error for: Magento_Ui/js/lib/knockout/bindings/scope
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://magento.softwaretestingboard.com."
+1702836916520	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:69164
+
+1702836937061	Marionette	INFO	Stopped listening on port 51321
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
